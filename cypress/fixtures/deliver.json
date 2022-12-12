@@ -1,0 +1,55 @@
+{
+    "signup":{
+
+        "name": "Jonatas Santos",
+            "cpf": "41940038880",
+            "email": "jonatasantostest@cypress.com",
+            "whatsapp": "11887176532",
+            "adress":{
+                "postalcode": "09330788",
+                "street": "Rua Albert Sabin",
+                "number":"31",
+                "details":"Casa",
+                "district":"Jardim São Gabriel",
+                "city_state":"Mauá/SP"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv":{
+        "name": "Jonatas Santos",
+        "cpf": "4194SS38880",
+        "email": "chloebelarminomachado@cypress.com",
+        "whatsapp": "11887176532",
+        "adress":{
+            "postalcode": "09330788",
+            "street": "Rua Albert Sabin",
+            "number":"31",
+            "details":"Casa",
+            "district":"Jardim São Gabriel",
+            "city_state":"Mauá/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+
+    },
+
+    "email_inv":{
+
+        "name": "Jonatas Santos",
+            "cpf": "41940038880",
+            "email": "jonatasantostest.com.br",
+            "whatsapp": "11887176532",
+            "adress":{
+                "postalcode": "09330788",
+                "street": "Rua Albert Sabin",
+                "number":"31",
+                "details":"Casa",
+                "district":"Jardim São Gabriel",
+                "city_state":"Mauá/SP"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    }
+}
